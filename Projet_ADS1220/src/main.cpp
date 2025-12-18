@@ -6,12 +6,12 @@
 
 // ==== CONFIGURATION WIFI ====
 
-const char* ssid = "Livebox-5AD0";
-const char* password = "6bHJEZT5Rj3yevycqt";
+const char* ssid = "Livebox";
+const char* password = "Password";
 
 // === CONFIGURATION THINGSBOARD ===
 
-const char* mqtt_server = "192.168.1.46";
+const char* mqtt_server = "192.168.1.30";
 const int mqtt_port = 1883;
 const char* access_token = "zlH9J2gbmHYNKHLy5mhL";
 
